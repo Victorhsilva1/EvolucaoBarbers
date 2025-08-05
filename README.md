@@ -6,7 +6,7 @@ Página de apresentação da barbearia localizada no **Centro de Carapicuíba �
 
 - Layout limpo e moderno
 - Responsivo com **CSS Media Queries**
-- Integrações básicas: mapa, informações de contato, galeria de cortes
+- Integrações básicas: mapa, informações de contato, contando um pouco sobre a barbearia e os valores
 
 ## Tecnologias
 
@@ -15,3 +15,4 @@ Página de apresentação da barbearia localizada no **Centro de Carapicuíba �
 - **Media Queries** para responsividade (mobile/tablet/desktop)
 
 ---
+
